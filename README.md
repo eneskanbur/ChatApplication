@@ -2,8 +2,6 @@
 
 This project implements a real-time chat application using JavaFX for the client-side GUI and a custom server built with Java sockets.  It supports both one-on-one and group chat functionalities, allowing users to connect, exchange messages, create groups, and invite other users to join.
 
-![Chat Application Screenshot](screenshot.png)  *(Replace screenshot.png with an actual screenshot of your application)*
-
 ## Features
 
 * **Real-time Chat:**  Users can exchange messages instantly with other connected users.
